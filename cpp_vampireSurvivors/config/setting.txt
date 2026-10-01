@@ -1,0 +1,11 @@
+# target frame rate
+targetFps = 120
+
+# fixed frame rate
+fixedFps = 60
+
+# screen width
+width = 800
+
+# screen height
+height = 600
